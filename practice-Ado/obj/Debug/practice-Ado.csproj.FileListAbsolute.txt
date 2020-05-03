@@ -1,0 +1,10 @@
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\bin\Debug\practice-Ado.exe.config
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\bin\Debug\practice-Ado.exe
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\bin\Debug\practice-Ado.pdb
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice-Ado.csprojAssemblyReference.cache
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice_Ado.Form1.resources
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice_Ado.Properties.Resources.resources
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice-Ado.csproj.GenerateResource.cache
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice-Ado.csproj.CoreCompileInputs.cache
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice-Ado.exe
+C:\Users\lenovo y700\source\repos\practice-Ado\practice-Ado\obj\Debug\practice-Ado.pdb
